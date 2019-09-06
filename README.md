@@ -1,3 +1,5 @@
+This page has been archived and further updates will be on Christopher’s [GitHub page]( https://github.com/hally166/Influx_auto_sort_template).
+
 # Influx sort layout template program
 ## AKA Latin Square Generator
 This program applies predefined sort templates to your BD Influx workspace.  It can also take designs from Excel and apply them to your sort.
